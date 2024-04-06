@@ -7,4 +7,4 @@ Just an IT guy currently working in Japan.
 
 ##### About me
 - 📫 How to reach me: [jds.pichon@gmail.com](mailto:jds.pichon@gmail.com)
-- 🖥️ My portfolio: [https://jeremy-pichon.com/](https://www.jeremy-pichon.com/)
+- 🖥️ My portfolio: [https://jpichon.dev/](https://www.jpichon.dev/)
